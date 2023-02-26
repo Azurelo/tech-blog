@@ -1,17 +1,14 @@
 [
   {
     "name": "My first post",
-    "description": "This is my first post on the web.",
-    "needed_funding": 5000
+    "description": "This is my first post on the web."
   },
   {
     "name": "My second post",
-    "description": "This is my second post!",
-    "needed_funding": 10000
+    "description": "This is my second post!"
   },
   {
     "name": "Story Time",
-    "description": "Imagine a good story here.",
-    "needed_funding": 800
+    "description": "Imagine a good story here."
   }
 ]
