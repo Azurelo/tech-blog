@@ -20,7 +20,7 @@ Justus Schoppmann
 Visit https://github.com/Azurelo/ or contact justusschoppmann@yahoo.com for any questions.
 
 ## Link
-https://azurelo.github.io/tech-blog/
+https://protected-castle-27965.herokuapp.com/ 
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
